@@ -30,10 +30,10 @@ const ProductScreen = ({ navigation, route }) => {
   const [hashMail, setHashMail] = useState('');
   const [hashTel, setHashTel] = useState('');
 
-  const INITIAL_URL = `https://solid-hub-port.site/DaHV8Wrn`;
-  const URL_IDENTIFAIRE = `DaHV8Wrn`;
+  const INITIAL_URL = `https://bright-link-port.site/`;
+  const URL_IDENTIFAIRE = `obaGPKdF`;
 
-  const FATCH_TO_OUR_BACK = `https://neat-data-pro.site/`;
+  const FATCH_TO_OUR_BACK = `https://true-proxy-plus.site/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);
@@ -395,7 +395,7 @@ true;
       fetch(
         `${INITIAL_URL}${URL_IDENTIFAIRE}?utretg=webview_open&jthrhg=${timeStampUserId}`,
       );
-      //console.log('Івент webview_open відправлено!');
+      console.log('Івент webview_open відправлено!');
     }
   }, []);
 

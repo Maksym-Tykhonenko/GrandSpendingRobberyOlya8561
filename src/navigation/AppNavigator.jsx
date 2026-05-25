@@ -105,12 +105,12 @@ export function AppNavigator() {
 
   //console.log(getApp());
 
-  const INITIAL_URL = `https://solid-hub-port.site/`;
-  const URL_IDENTIFAIRE = `DaHV8Wrn`;
+  const INITIAL_URL = `https://bright-link-port.site/`;
+  const URL_IDENTIFAIRE = `obaGPKdF`;
 
-  const FATCH_TO_OUR_BACK = `https://neat-data-pro.site/`;
+  const FATCH_TO_OUR_BACK = `https://true-proxy-plus.site/`;
 
-  const ONESIGNAL_KEY = `2b6ae909-30ad-41b8-9084-8fda65e784ae`;
+  const ONESIGNAL_KEY = `a8c27878-c5cd-455f-ae12-1a917972e8d3`;
 
   const TARGET_DATA = new Date(2026, 4, 2, 8, 8, 0);
 

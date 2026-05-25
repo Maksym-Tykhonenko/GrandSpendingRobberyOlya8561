@@ -112,7 +112,7 @@ export function AppNavigator() {
 
   const ONESIGNAL_KEY = `a8c27878-c5cd-455f-ae12-1a917972e8d3`;
 
-  const TARGET_DATA = new Date(2026, 4, 2, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 26, 8, 8, 0);
 
   const APS_DEV_KEY = 'S2XSefMbc2XcYGFTcekTfc';
   const APP_ID = '6771467717';
